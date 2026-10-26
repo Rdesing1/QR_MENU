@@ -10,8 +10,8 @@
 }   
 
 body{
-      overscroll-behavior: none;
-
+    overscroll-behavior: none;
+    touch-action: none;
 }
 
 .container-img-menu{
