@@ -9,6 +9,10 @@
     font-size: 20px;
 }   
 
+body{
+      overscroll-behavior: none;
+
+}
 
 .container-img-menu{
     width: 100%;

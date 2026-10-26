@@ -12,6 +12,8 @@
 
 .body{
     font-family: sans-serif;
+    overscroll-behavior: none;
+
 }
 
 .container-app{
